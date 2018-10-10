@@ -1,0 +1,2 @@
+# csm84f12_gagent_outlet
+基于CSM84F12 WFi模块，对接机智云的单孔WiFi智能插座，电能计量使用CSE7761
